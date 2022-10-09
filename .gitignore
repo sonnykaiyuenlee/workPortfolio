@@ -1,0 +1,19 @@
+# Misc. Files
+*.DS_Store
+*.sqlite3
+__pycache__
+migrations
+
+# Environment Files
+.env
+setup_env.sh
+/env
+
+# Coverage files
+backend/htmlcov
+backend/.coverage
+
+# Other files I'm still working on
+prod.py
+dev.py
+constants.py
